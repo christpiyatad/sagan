@@ -9,7 +9,7 @@
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
     "@fortawesome/fontawesome-free": "^5.12.0",
-    "bulma": "^0.8.0",
+    "bulma": "^0.9.3",
     "clipboard": "^2.0.4",
     "jquery": "^3.4.1",
     "jquery-datetimepicker": "^2.5.21",
